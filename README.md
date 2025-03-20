@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,3 +45,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+=======
+# Image_uploder-frontend-
+Welcome to our Image Uploader Application, your go-to platform for effortlessly managing your images! With our user-friendly interface, you can easily upload, organize, and delete your images, all while enjoying a secure and personalized experience. this will contain frontend code only and backend is uploaded in seperate repo
+>>>>>>> b40de511981dce84fef4966064219fd265927e76
